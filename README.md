@@ -12,6 +12,6 @@ Task 2 : 315 Bird classification
 
 ##  Files to be used
 
-File is used for chest classification
+File  is used for chest classification
 
-File is used for bird classification
+File 95-accuracy-on-315-birds-species is used for bird classification
